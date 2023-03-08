@@ -1,0 +1,6 @@
+.MainContainer {
+  @apply w-full flex justify-center;
+}
+.MainContainer__inner {
+  width: 1200px;
+}
